@@ -32,5 +32,5 @@ listing_t *insert_node(listing_t **head, int number)
 		}
 		node = node->next;
 	}
-	return (Null);
+	return (NULL);
 }	
