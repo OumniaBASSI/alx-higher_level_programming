@@ -1,1 +1,2 @@
-0x00. Python - Hello, World
+lets the learning journey begin 
+PYTHON edition
