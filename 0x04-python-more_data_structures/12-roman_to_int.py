@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#!/usr/bin/python3
 
 def value(roman):
     """returns value of each Roman symbol
